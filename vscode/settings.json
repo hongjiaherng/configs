@@ -1,0 +1,13 @@
+{
+    "window.commandCenter": true,
+    "workbench.colorTheme": "Panda Syntax",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "catppuccin-latte",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "relative"
+}
