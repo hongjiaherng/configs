@@ -9,5 +9,6 @@
     "workbench.iconTheme": "catppuccin-latte",
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
-    "editor.lineNumbers": "relative"
+    "editor.lineNumbers": "relative",
+    "vim.useSystemClipboard": true
 }
