@@ -35,7 +35,7 @@
   "project_panel": {
     "dock": "right"
   },
-  "show_edit_predictions": false,
+  "show_edit_predictions": true,
   "languages": {
     "Python": {
       "show_edit_predictions": true
