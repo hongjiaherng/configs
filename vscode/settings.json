@@ -10,5 +10,12 @@
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
     "editor.lineNumbers": "relative",
-    "vim.useSystemClipboard": true
+    "vim.useSystemClipboard": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    }
 }
